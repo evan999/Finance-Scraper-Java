@@ -7,6 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Controller 
 {
 	static WebDriver driver = new ChromeDriver();
+	
 	public Controller() {
 		
 	}
